@@ -27,7 +27,7 @@ For now, both programs are set up to expect an input file of 30,000 pairs of co-
 This is a rough expectation of computing speed (Just so you know the program isnt broken, its just running).
 Both programs will return the total execution time of the algorithm before printing all extreme points
 
-Locally, the bruteforce program takes around 25 seconds, but expect this to take much longer if using an older processor
+Locally, the bruteforce program takes around 25 seconds, but expect this to take much longer if using an older processor. 
 The divideAndConquer program should run very fast (Less than 0.1 secconds)
 
 
