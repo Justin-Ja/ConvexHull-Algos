@@ -23,7 +23,7 @@ make clean
 For now, both programs are set up to expect an input file of 30,000 pairs of co-ordinate points. Future plans is to update to make this dynamic
 - [ ] To allow for input to be of dynamic size
 
-## Execution time - 
+## Execution time
 This is a rough expectation of computing speed (Just so you know the program isnt broken, its just running).
 Both programs will return the total execution time of the algorithm before printing all extreme points
 
