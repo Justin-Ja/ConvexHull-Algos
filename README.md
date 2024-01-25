@@ -11,7 +11,10 @@ The executables can be run as such:
 ./divideAndConquer
 
 For both they will prompt for two points s1 and s2
-They should be entered with only a space separating the x and y with nothing else -> 123.4 567.8
+They should be entered with only a space separating the x and y with nothing else. 
+If these points are not extreme points, the shortest path cannot be found and the program will only output the list of extreme points.
+If they are extreme points, a path will be generated with total distance and points traversed.
+See example output section for more details
 
 To remove the executable files, run
 
